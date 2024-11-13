@@ -42,5 +42,9 @@ Luís Fernando Mercier Franco<br></p>
 ## <a name="overview"></a>Overview
 <p align="justify">
   Esse repositório contém 3 templates: 1 para dissertações de Mestrado e Doutorado, 1 para projetos de solicitação de bolsa FAPESP e 1 para projetos de solicitação de bolsa BEPE FAPESP.
-  Os arquivos dos templates estão escritos em LaTeX e compactados no formato ".zip", podendo ser carregados em editores de LaTeX. Recomenda-se que os arquivos sejam carregados como projetos no <a href="https://www.overleaf.com/project">**Overleaf**</a>
+  Os arquivos dos templates estão escritos em LaTeX e compactados no formato ".zip", podendo ser carregados em editores de LaTeX. Recomenda-se que os arquivos sejam carregados como projetos no <a href="https://www.overleaf.com/project"><b>Overleaf</a>.
+</p>
+
+<p align="justify">
+  Todos os templates contém comentários embutidos ensinando como utilizá-los.
 </p>
